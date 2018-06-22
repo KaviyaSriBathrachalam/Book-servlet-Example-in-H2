@@ -17,7 +17,7 @@ H2 Server Properties - INFORMATION
 18=Generic Derby (Embedded)|org.apache.derby.jdbc.EmbeddedDriver|jdbc\:derby\:test;create\=true|sa
 19=Generic H2 (Server)|org.h2.Driver|jdbc\:h2\:tcp\://localhost/~/test|sa
 2=Generic Snowflake|com.snowflake.client.jdbc.SnowflakeDriver|jdbc\:snowflake\://accountName.snowflakecomputing.com|
-20=Generic H2 (Embedded)|org.h2.Driver|jdbc\:h2\:~/test|sa          //"""IMPORTANT LINE"""""
+20=Generic H2 (Embedded)|org.h2.Driver|jdbc\:h2\:~/test|sa        
 3=Generic Redshift|com.amazon.redshift.jdbc42.Driver|jdbc\:redshift\://endpoint\:5439/database|
 4=Generic Impala|org.cloudera.impala.jdbc41.Driver|jdbc\:impala\://clustername\:21050/default|
 5=Generic Hive 2|org.apache.hive.jdbc.HiveDriver|jdbc\:hive2\://clustername\:10000/default|
