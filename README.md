@@ -65,9 +65,10 @@ With the above properties, h2 server runs... you will find a dropdown in h2 data
 
 To Run: 
 
-1. Add test.mv and test.printtrace files...
+1.Check users have test.mv and test.printtrace files... if not, then  Add test.mv and test.printtrace files...  (if is this same github-->respository)
 
  eg :- C://users//username(kaviyasri.b)//test.mv and test.printtrace
+ 
 
 2. C:\Users\dhineshraja.m\.m2\repository\com\h2database\h2\1.4.197\h2-1.4.197(executable jar file) --->double click on it, it opens a file give the username and password.... open the db and then close the tab.... then in  system tray(right corner of task bar) 
 there will open a h2 box like something.. if you right click it, you will h2 console,status,exit.Give exit and close it.
